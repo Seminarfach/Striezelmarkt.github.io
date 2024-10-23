@@ -1,0 +1,238 @@
+header{
+	height: 100px;
+	background-color: #F0B27A;
+	margin-bottom: 10px;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+}
+header a{
+	margin-left: 90px;
+	margin-right:90px;
+	text-decoration: none;
+	color: brown;
+	font-size: 25px;
+ }
+ header a:hover{
+	color: rgb(165, 96, 96);
+ }
+ .hier{
+	text-decoration: none;
+	color: brown;
+ }
+ .hier:hover{
+	color: rgb(165, 96, 96);
+ }
+body{
+	background-image: url("img/1024-dresdner-striezelmarkt-michael-schmidt.jpg");
+	background-size: cover;
+	font-family: Georgia, Verdana, sans-serif;
+	font-size:15px;
+}
+.Begrüßung{
+	text-align:center;
+	border-radius: 10px;
+	margin-left: 350px;
+	margin-right: 350px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	background-color:#F0B27A ;
+	display: flex;
+	justify-content: center; 
+}
+
+.Geschichte{
+	font-size: 15px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: auto;
+	text-align: center;
+}
+h1{
+	text-decoration: underline  brown; ;
+	padding: 14px;
+	font-size: 35px;
+	color: black;
+	border-radius: 10px;
+	background-color: #F0B27A;
+	display: flex;
+	justify-content: center;
+	margin-left: 175px;
+	margin-right:175px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.Zutaten{
+	font-size: 15px;
+	color:rgb(165, 96, 96);
+	
+}
+.Zubereitung{
+	font-size: 12px;
+	color:rgb(165, 96, 96);
+	text-align: center;
+}
+.machen{
+	text-align: center;
+}
+.schritte{
+	font-size:20px;
+	color:rgb(165, 96, 96);
+}
+.Unterteilung{
+	font-weight: bold;
+}
+.Geschichte{
+	text-align: center;
+	border-radius: 10px;
+	margin-left: 350px;
+	margin-right: 350px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	background-color:#F0B27A ;
+	display: flex;
+	justify-content: center;  
+	line-height: 1.8em;
+}
+h2{
+	font-size: 30px;
+	padding: 10px;
+	color: black;
+	border-radius: 10px;
+	background-color: #F0B27A;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-left: 350px;
+	margin-right:350px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	height: 75px;
+	text-align: center;
+}
+.container{
+	border-radius: 10px;
+	margin-left: 350px;
+	margin-right: 350px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	background-color:#F0B27A ;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	padding: 10px;
+	line-height: 1.8em;
+}
+.Avatare{
+	background-color:brown;
+	border: 3px solid brown;
+  	border-radius: 10px;
+  	padding: 5px;
+	width: 810px;
+	height: 400px;
+	margin-right: auto;
+	margin-left:auto;
+	display:flex;
+	justify-content: center;
+}
+.Striezelmarkt{
+	background-color:brown;
+	border: 3px solid brown;
+  	border-radius: 10px;
+  	padding: 5px;
+	width: 810px;
+	 height: 400px;
+	margin-right:auto;
+	margin-left:auto;
+	display:flex;
+	justify-content: center;
+}
+.Marktplan{
+	background-color:brown;
+	border: 3px solid brown;
+  	border-radius: 10px;
+  	padding: 5px;
+	width: 810px;
+	height: 400px;
+	margin-right:auto;
+	margin-left:auto;
+	display:flex;
+	justify-content: center;
+}
+.Baumstriezel{
+	background-color:brown;
+	border: 3px solid brown;
+  	border-radius: 10px;
+  	padding: 5px;
+	width: 810px;
+	height: 400px;
+	margin-right:auto;
+	margin-left:auto;
+	display:flex;
+	justify-content: center;
+	}
+.Hütte{
+	background-color:brown;
+	border: 3px solid brown;
+  	border-radius: 10px;
+  	padding: 5px;
+	width: 810px;
+	height: 400px;
+	margin-right:auto;
+	margin-left:auto;
+	display:flex;
+	justify-content: center;
+	}
+
+h4{
+	padding: 10px;
+	font-size: 50px;
+	color: black;
+	border-radius: 10px;
+	background-color: #F0B27A;
+	display: flex;
+	justify-content: center;
+	margin-left: 350px;
+	margin-right: 350px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.Links{
+	line-height: 2,0em;
+	font-size: 20px;
+}
+.Impressum{
+	height: 150%;
+	padding: 20px;
+	margin-left: 350px;
+	margin-right: 350px;
+	float: center;
+	border-radius: 10px;
+	background-color:#F0B27A;
+	line-height: 2.2em;
+
+}
+.Daten{
+	font-size: 30px;
+	color:rgb(165, 96, 96);
+}
+
+.Feedback{
+	border-radius: 10px;
+	margin-left: 350px;
+	margin-right: 350px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	background-color:#F0B27A ;
+	display: flex;
+	justify-content: center;
+}
+.Textfeld{
+	display: flex;
+	justify-content: center;
+}
+.Senden{
+	display:flex;
+	justify-content: center;
+}
